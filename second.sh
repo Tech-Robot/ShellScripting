@@ -1,0 +1,4 @@
+echo "Second Script"
+COURSE="SECOND COURSE"
+echo "SCEOND SCRIPT PROCESS ID : $$"
+echo "COURSE IS : $COURSE"
