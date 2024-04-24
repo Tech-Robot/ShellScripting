@@ -1,2 +1,7 @@
 echo "Hello World"
-echo "From Dev"
+COURSE="DEVOPS"
+
+echo "CURRENT PROCESS ID : $$"
+echo "COURSE IS ${COURSE}"
+echo "BEFORE CALLING SECOND SCRIPT"
+echo "AFTER SECOND SCRIPT
